@@ -11,6 +11,7 @@
 *.sass-cache
 node_modules/
 app/bower/
+_template/
 .tmp/
 /build/
 /dist/
