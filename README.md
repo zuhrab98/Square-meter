@@ -1,5 +1,7 @@
 # Square-meter
 
+[![github-pages](https://img.shields.io/badge/github-pages-black?logo=&logoColor=blue&style=for-the-badg)](http://zuhrab.ru/square-metre/index.html)
+
 ### С чем работал в проекте:
 * Патерн - MVC
 * Роутер
@@ -11,5 +13,3 @@
 * Запрос объектов по параметрам из формы
 * Подключения Event emitter
 * Модальное окно и создание заявок
-
-[![github-pages](http://zuhrab.ru/square-metre/index.html)
